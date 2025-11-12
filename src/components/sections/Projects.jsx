@@ -55,7 +55,7 @@ export const Projects = () => {
                 and comment handling with full CRUD support and frontend integration readiness.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Python", "TensorFlow", "D3.js", "Flask"].map((tech, key) => (
+                {["Java", "Spring Boot", "MySQL", "React"].map((tech, key) => (
                   <span
                     key={key}
                     className="
