@@ -9,7 +9,7 @@ export const About = () => {
     "CSS"
   ];
 
-  const backendSkills = ["Node.js", "Java", "MySQL", "Spring-Boot"];
+  const backendSkills = ["Node.js", "Java", "MySQL", "MongoDB"];
 
   return (
     <section
@@ -25,7 +25,8 @@ export const About = () => {
 
           <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
             <p className="text-gray-300 mb-6">
-              Passionate web developer with expertise in building responsive websites and crafting innovative, user-focused solutions.
+              MERN stack Developer with 3+ years of experience building production-ready web applications and responsive websites using Node.js, JavaScript, React, HTML, CSS, MongoDB, and MySQL. Proven ability to deliver scalable APIs, performant user interfaces,
+               and reliable database-driven solutions aligned with real business needs.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
