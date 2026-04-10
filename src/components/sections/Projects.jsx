@@ -14,10 +14,10 @@ export const Projects = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
-              <h3 className="text-xl font-bold mb-2"> Online E-Book-Store</h3>
+              <h3 className="text-xl font-bold mb-2"> JWT-Based Authentication System-MERN Stack</h3>
               <p className="text-gray-400 mb-4">
-                Developed a full-stack B2C eBook marketplace using Java, Spring Boot, React.js, and MySQL with secure authentication, 
-                dynamic UI, and optimized backend performance.
+                Developed a secure authentication system using Node.js, Express, MongoDB, and React. Implemented signup/login APIs, password hashing with bcrypt, 
+                JWT-based authentication, and deployed the app with proper validation and error handling.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["React", "Spring Boot", "MySQL", "Java"].map((tech, key) => (
@@ -49,10 +49,10 @@ export const Projects = () => {
               transition-all
             "
             >
-              <h3 className="text-xl font-bold mb-2">Blog App</h3>
+              <h3 className="text-xl font-bold mb-2">Blogging Web Application</h3>
               <p className="text-gray-400 mb-4">
-                Built a scalable RESTful blog backend using Spring Boot and MySQL, featuring user management, post creation, 
-                and comment handling with full CRUD support and frontend integration readiness.
+                Built a full-stack blogging platform using Node.js, React, and MySQL with features to create, edit, and delete posts. Implemented REST APIs, JWT-based authentication, 
+                and a responsive UI for seamless user interaction.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Java", "Spring Boot", "MySQL", "React"].map((tech, key) => (
