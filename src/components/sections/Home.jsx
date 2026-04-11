@@ -13,9 +13,10 @@ export const Home = () => {
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I’m a web developer who focuses on building fast, responsive, 
-            and user-friendly websites. My goal is to create digital experiences that combine solid functionality with clean, 
-            maintainable code and seamless design.
+           I’m a MERN stack developer who enjoys building web applications that are fast,
+            clean, and easy to use. I work with MongoDB, Express, React, and Node.js to create everything from responsive frontends to reliable backend APIs. 
+            I focus on writing code that’s simple, maintainable, and actually solves real problems, while making sure the overall experience feels smooth and intuitive.
+
           </p>
           <div className="flex justify-center space-x-4">
             <a

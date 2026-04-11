@@ -20,7 +20,7 @@ export const Projects = () => {
                 JWT-based authentication, and deployed the app with proper validation and error handling.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["React", "Spring Boot", "MySQL", "Java"].map((tech, key) => (
+                {["Node.JS", "Express jS", "MOngoDB", "React"].map((tech, key) => (
                   <span
                     key={key}
                     className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 
@@ -55,7 +55,7 @@ export const Projects = () => {
                 and a responsive UI for seamless user interaction.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["Java", "Spring Boot", "MySQL", "React"].map((tech, key) => (
+                {["Node JS", "Express JS", "MySQL", "React"].map((tech, key) => (
                   <span
                     key={key}
                     className="

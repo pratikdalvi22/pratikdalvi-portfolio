@@ -85,12 +85,12 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Web Developer at SmileWebworld (2023 - Present){" "}
+                    MERN stack Developer at SmileWebworld (April 2023 - Present){" "}
                   </h4>
-                  <p>
-                    Developed and maintained responsive, 
-                    scalable webites 
-                  </p>
+                  <h4 className="font-semibold">
+                    {" "}
+                    Web Developer at SmileWebworld (Jan 2023 - April 2023){" "}
+                  </h4>
                 </div>
 
                 
