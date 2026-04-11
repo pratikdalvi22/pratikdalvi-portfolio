@@ -82,16 +82,15 @@ export const About = () => {
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
               <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
               <div className="space-y-4 text-gray-300">
-                <div>
-                  <h4 className="font-semibold">
-                    {" "}
-                    MERN stack Developer at SmileWebworld (April 2023 - Present){" "}
-                  </h4>
-                  <h4 className="font-semibold">
-                    {" "}
-                    Web Developer at SmileWebworld (Jan 2023 - April 2023){" "}
-                  </h4>
-                </div>
+                <div className="flex flex-col gap-2">
+                    <p className="font-semibold">
+                           MERN Stack Developer at SmileWebworld (April 2023 - Present)
+                    </p>
+                    
+                    <p className="font-semibold">
+                            Web Developer at SmileWebworld (Jan 2023 - April 2023)
+                    </p>
+                  </div>
 
                 
               </div>
